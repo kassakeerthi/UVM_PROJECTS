@@ -1,0 +1,2 @@
+var g_data = {"5":{"pr":"/top","ty":2,"dui":3,"dun":"work.top","direct":[{"n":["C1"],"h":49},{"n":["C2"],"h":87},{"n":["C3"],"h":148},{"n":["C4"],"h":162},{"n":["C5"],"h":20},{"n":["C6"],"h":33}]}};
+processDirectivesData(g_data);

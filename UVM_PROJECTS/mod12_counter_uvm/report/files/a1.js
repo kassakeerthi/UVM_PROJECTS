@@ -1,0 +1,2 @@
+var g_data = {"5":{"pr":"/top","ty":2,"dui":3,"dun":"work.top","asserts":[{"n":["assert__wrap_around_down_p"],"h":[0,1]},{"n":["assert__wrap_around_up_p"],"h":[0,1]},{"n":["assert__count_down_p"],"h":[0,1]},{"n":["assert__count_up_p"],"h":[0,1]},{"n":["assert__load_p"],"h":[0,1]},{"n":["assert__reset_p"],"h":[0,1]}],"ad":0},"8":{"pr":"/counter_pkg","ty":2,"dui":2,"dun":"work.counter_pkg","asserts":[{"n":["counter_seqs/body/immed__12"],"h":[0,1]},{"n":["reset_seqs/body/immed__29"],"h":[0,1]}],"ad":0}}
+processAssertionsData(g_data);

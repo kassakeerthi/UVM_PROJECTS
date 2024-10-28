@@ -1,0 +1,2 @@
+var g_data = {"9":{"pr":"/top/duv","ty":2,"dui":5,"dun":"work.fifo","direct":[{"n":["FULL"],"h":1},{"n":["EMPTY"],"h":0},{"n":["RCP"],"h":8},{"n":["WUP"],"h":52},{"n":["RUP"],"h":28},{"n":["FFC"],"h":6},{"n":["FEC"],"h":21},{"n":["ERAW"],"h":55}]}};
+processDirectivesData(g_data);

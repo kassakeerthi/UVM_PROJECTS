@@ -1,0 +1,2 @@
+var g_data = ["","../rtl/counter_if.sv","../top/counter_pkg.sv","../env/scoreboard.sv","../agt/trans.sv","../env/env_config.sv","../agt/counter_seqs.sv","../agt/driver.sv","../agt/monitor.sv","../agt/sequencer.sv","../agt/agent.sv","../env/env.sv","../test/base_test.sv","../top/top.sv","../rtl/counter.sv"];
+processSrcNamesData(g_data);

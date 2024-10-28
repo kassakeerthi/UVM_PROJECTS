@@ -1,0 +1,2 @@
+var g_data = {"10":["auto[0]","auto[1]"],"11":["auto[0]","auto[1]"],"12":["auto[0]","auto[1]"],"13":["LOW1","MID_LOW","MID","MID_HIGH","HIGH","MAX"],"15":["auto[0]","auto[1]"],"16":["auto[0]","auto[1]"],"17":["auto[0]","auto[1]"],"18":["LOW1","MID_LOW","MID","MID_HIGH","HIGH","MAX"],"20":["ZERO","LOW","MID_LOW","MID","MID_HIGH","HIGH","MAX"],"22":["ZERO","LOW","MID_LOW","MID","MID_HIGH","HIGH","MAX"]};
+processCoverpointsMapData(g_data);

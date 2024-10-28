@@ -1,0 +1,2 @@
+var g_data = {"8":{"pr":"/fsm_pkg","ty":2,"dui":2,"dun":"work.fsm_pkg","cvgs":[{"h":["\\/fsm_pkg::scoreboard::fsm_cg ",2,1,15,9],"cov":[13,13,100.00],"opts":{"goal":"100","per_instance":"true"}},{"h":["/fsm_pkg/scoreboard/fsm_cg",1,1,9],"cov":[13,13,100.00],"opts":{"goal":"100","merge_instance":"auto(true)"}}]}};
+processCovergroupsData(g_data);
